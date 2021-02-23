@@ -1,4 +1,4 @@
-![Header image] (screenshot.jpg "Screenshot of the program")
+![Header image] (/screenshot.jpg)
 
 # Binary clock
 
