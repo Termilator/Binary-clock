@@ -33,7 +33,6 @@ When we use multiple digits, we count the sum of all the ON digits.
 Here's the count from 0 to 5 using a six digit binary:
 
 Value  32  16  8   4   2   1   | decimal
-
        0   0   0   0   0   0   |    0
        0   0   0   0   0   1   |    1
        0   0   0   0   1   0   |    2
